@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PontusBlixt
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in everything data science 
+- 🌱 I’m currently learning data science 
 - 📫 How to reach me email pontus.blixt98@gmail.com 
 
 <!---
